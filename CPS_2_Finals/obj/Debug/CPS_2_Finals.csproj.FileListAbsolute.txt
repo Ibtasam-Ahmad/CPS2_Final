@@ -1,0 +1,11 @@
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.csproj.AssemblyReference.cache
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.Form1.resources
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.Properties.Resources.resources
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.csproj.GenerateResource.cache
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.csproj.CoreCompileInputs.cache
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\bin\Debug\CPS_2_Finals.exe.config
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\bin\Debug\CPS_2_Finals.exe
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\bin\Debug\CPS_2_Finals.pdb
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.exe
+E:\CPS LAB\Finals\CPS_2_Finals\CPS_2_Finals\obj\Debug\CPS_2_Finals.pdb
